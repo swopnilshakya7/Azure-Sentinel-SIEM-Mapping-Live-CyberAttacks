@@ -904,7 +904,8 @@ It will take some time and everything will get deleted. We can also cancel the s
 ![image](https://github.com/swopnilshakya7/Azure-Sentinel-SIEM-Mapping-Live-CyberAttacks/assets/140642619/d4fc0375-7175-4ff0-ac46-70bd17ba36ca)
 
 
-<h3> Disclaimer:  This project is for educational purpose only.</h3>
+<h3>Disclaimer</h3>
+The content is completely for education purpose only. Any or full replication done to harm or unethical use may subjected to legal offense.
 
 
 
